@@ -1,0 +1,194 @@
+{
+	"meta":{
+		"conferenceYear": 2024,
+		"dateStart": "2024-08-21",
+		"dateEnd": "2024-08-23",
+		"conferenceName": "Global Blockchain Conference"
+	},
+	"header":{
+		"title" : "GBC 2024",
+		"subtitle" : "IEEE Global Blockchain Conference",
+		"dateTitle" : "August 21-23, 2024",
+		"locationPlaceName": "TBA",
+		"locationAreaName": "ShangHai, China",
+		"slogon":"Transforming a Trustworthy DigitaFuture !",
+		"bannerImage":"images/banner.jpg",
+		"bannerTopPlacement" : "-310px",
+		"bannerRightPlacement" : "-640px"
+	},
+	"socialMediaLinks":{
+		"facebook":"",
+		"twitter":""
+	},
+	"dates":[
+		{
+			"title":"Paper Submission Opens (<a target='_blank' href=''>link</a>)",
+			"date": "TBA",
+			"showInNavBar": true
+		},
+		{
+			"title":"Invited Session Proposals Due",
+			"date": "TBA",
+			"showInNavBar": true
+		},
+		{
+			"title":"Contributed and Invited Papers Due",
+			"date": "TBA",
+			"showInNavBar": true
+		},
+		{
+			"title":"Notification of Acceptance",
+			"date": "TBA",
+			"showInNavBar": true
+		},
+		{
+			"title":"Final Submissions Due",
+			"date": "TBA",
+			"showInNavBar": true
+		},
+		{
+			"title":"IEEE Global Blockchain Conference Dates",
+			"date": "July 3-5, 2024",
+			"showInNavBar": true
+		}
+	],
+	"footerLinks":{
+		"firstSection":{
+			"title":"conference",
+			"links":[
+				{
+					"name": "",
+					"link": "technical-program.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "plenary-speakers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "workshops.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "panel-session.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"secondSection":{
+			"title":"destination",
+			"links":[
+				{
+					"name": "",
+					"link": "hotel.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "",
+					"openInNewWindow": true
+				},
+				{
+					"name": "",
+					"link": "",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "",
+					"openInNewWindow": true
+				}
+			]
+		},
+		"thirdSection":{
+			"title":"author links",
+			"links":[
+				{
+					"name": "",
+					"link": "",
+					"openInNewWindow": true
+				},
+				{
+					"name": "",
+					"link": "",
+					"openInNewWindow": true
+				},
+				{
+					"name": "",
+					"link": "visa-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "student-paper-award.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "student-travel-support.php",
+					"openInNewWindow": false
+				}
+			]
+		},
+		"fourthSection":{
+			"title":"sitemap",
+			"links":[
+				{
+					"name": "Home",
+					"link": "index.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "organizers.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "visa-information.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "events.php",
+					"openInNewWindow": false
+				},
+				{
+					"name": "",
+					"link": "registration.php",
+					"openInNewWindow": false
+				}
+			]
+		}
+	},
+	"newsTicker":[
+		{
+			"content":"Stay tuned!",
+			"link":"",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Stay tuned!",
+			"link":"",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Stay tuned!",
+			"link":"",
+			"openInNewWindow": false
+		},
+		{
+			"content":"Stay tuned!",
+			"link":"",
+			"openInNewWindow": false
+		}		
+	]
+}
