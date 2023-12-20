@@ -103,7 +103,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<p style="padding:0;margin:0;font-size:smaller">
 						<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 						<span id="news-ticker-content">
-							<a id="news-ticker-link" href="#">论文提交 敬请关注！</a>
+							<a id="news-ticker-link" href="#">敬请关注！</a>
 						</span>
 					</p>
 				</div>
