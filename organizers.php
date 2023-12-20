@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Organizers'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='组织者'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -22,60 +22,61 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 	<div class="spacer"></div> -->
 
-	<div class="organizer-group-title">TPC Co-Chairs</div>
+	<div class="organizer-group-title">技术程序委员会联合主席</div>
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Elisa Bertino</div>
-			<div class="role bold">IEEE Fellow, ACM Fellow</div>
-			<div class="affiliation">Purdue University, USA</div>
+			<div class="role bold">IEEE会士, ACM会士</div>
+			<div class="affiliation">美国普渡大学</div>
 		</div>
 	</div>
 
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Chonggang Wang</div>
-			<div class="role bold">IEEE Fellow, Founding EiC of IEEE IoT Journal, EiC of IEEE Network</div>
-			<div class="affiliation">InterDigital, Inc., USA</div>
+			<div class="name">王崇刚</div>
+			<div class="role bold">IEEE会士，IEEE物联网期刊创刊主编，IEEE Network期刊主编</div>
+			<div class="affiliation">InterDigital公司，美国</div>
 		</div>
 	</div>
 
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Shuguang Cui</div>
-			<div class="role bold">IEEE Fellow</div>
-			<div class="affiliation">The Chinese University of Hong Kong, Shenzhen, China</div>
+			<div class="name">崔曙光</div>
+			<div class="role bold">IEEE会士</div>
+			<div class="affiliation">香港中文大学（深圳）</div>
 		</div>
 	</div>
 
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/renkui.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Kui Ren</div>
-			<div class="role bold">IEEE Fellow, ACM Fellow</div>
-			<div class="affiliation">Zhejiang University, China</div>
+			<div class="name">任奎</div>
+			<div class="role bold">IEEE会士, ACM会士</div>
+			<div class="affiliation">浙江大学</div>
 		</div>
 	</div>
 
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/leizhang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
-			<div class="name">Lei Zhang</div>
-			<div class="role bold">Associate Editor of IEEE IoT Journal, IEEE Wireless Communications Letters and Digital Communications and Networks</div>
-			<div class="affiliation">University of Glasgow, UK</div>
+			<div class="name">张磊
+			</div>
+			<div class="role bold">IEEE物联网期刊、IEEE无线通信快报和数字通信与网络的副主编</div>
+			<div class="affiliation">英国格拉斯哥大学</div>
 		</div>
 	</div>
 	
 	<div class="spacer"></div>
 	
-	<div class="organizer-group-title">KeyNote Speaker</div>
+	<div class="organizer-group-title">主讲人</div>
 	<div class="flex flex-auto person-container">
 		<div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Thomas Coughlin</div>
-			<div class="role">IEEE President Elect</div>
+			<div class="role">IEEE主席候选人</div>
 			<!-- <div class="affiliation"></div> -->
 		</div>
 	</div>
@@ -83,7 +84,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Elisa Bertino</div>
-			<div class="role">ACM Vice President</div>
+			<div class="role">ACM副主席</div>
 			<!-- <div class="affiliation"></div> -->
 		</div>
 	</div>
