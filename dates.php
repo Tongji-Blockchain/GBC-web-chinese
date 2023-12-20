@@ -1,8 +1,12 @@
 <?php 
-$pageTitle='Dates and Deadlines'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='日期和截止日期'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/dates.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
+
+
+
+
 
 <div class="dates-container">
 	<ul>

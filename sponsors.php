@@ -4,8 +4,8 @@ $stylesheet='css/sponsors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 <div class="text">
-	The 1st IEEE CCTA is sponsored by the IEEE Control Systems Society with technical co-sponsorship through the IEEE Robotics and Automation Society, and is organized in cooperation with the Society for Instrument and Control Engineers (SICE). 
-</div>
+
+第一届IEEE CCTA由IEEE控制系统学会赞助，IEEE机器人与自动化学会提供技术协助赞助，并在Society for Instrument and Control Engineers（SICE）的合作组织下进行。</div>
 
 <div class="flex flex-wrap">
 	<div class="image-holder">

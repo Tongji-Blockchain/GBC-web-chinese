@@ -1,73 +1,97 @@
 <?php 
-$pageTitle='welcome'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='组织者'; //THIS MUST BE SET FOR EACH PAGE
+$stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
- 
-<?php 
-	echo '<script>var config='.file_get_contents('configuration/config.json').'</script>';
-?>
-
-<script type="text/javascript">
-	$(document).ready(function(){
-		
-		var newsCounter = 0
-
-		setInterval(function(){
-			
-			if(newsCounter + 1 > config.newsTicker.length-1){
-				newsCounter = 0
-			}else{
-				newsCounter++
-			}
-			
-			$('#news-ticker-link').fadeOut(500, function(){
-				$('#news-ticker-link').attr('href', config.newsTicker[newsCounter].link)
-				$('#news-ticker-link').html(config.newsTicker[newsCounter].content)
-				$('#news-ticker-link').fadeIn(500, function(){
-				})
-			})
-			
-		}, 5000)
-
-		
-	})
-</script>
-
-<!-- <div id="news-ticker" style="color:gray;background:white;padding:15px;margin:10px;border-radius:10px;box-shadow:2px 2px 2px 2px #ccc;margin-top:-20px;margin-bottom:20px; ">
-		<p style="padding:0;margin:0;font-size:smaller">
-			<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
-			<span id="news-ticker-content">
-				<a id="news-ticker-link" href="#">Click here for nomination for best student papers</a>
-			</span>
-		</p>
+<!-- <div class="text">
+	This is where the organizers go.
 </div> -->
 
-<div class="text">
+<div style="margin-top:5%; margin-bottom: 5%" class="flex-column">
 
-<!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
+	<!-- <div class="organizer-group-title">Chair</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/liuerwu.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">刘儿兀</div>
+			<div class="role">IET Fellow</div>
+			<div class="affiliation">Tongji University, China</div>
+		</div>
+	</div>
 
-	The year 2024 will witness a monumental event—the IEEE Global Blockchain Conference in China. This event will not only focus on the technological advances but will also serve as a platform for sharing research, fostering international collaborations, and highlighting commitment to open, inclusive, and innovative technological advancements in blockchain.
-	<br><br>
-	We extend a warm welcome to all attendees, and we hope you have a rewarding and enriching experience at the conference. Join us as we explore the future of blockchain technology and engage in insightful discussions with experts from around the world.
-	<br><br>
-	Backgrond of the Conference:
-	<br><br>
-	On January 1, 2018, the IEEE Blockchain Organization was established to oversee all activities related to blockchain within IEEE. Professor Liu Erwu from Tongji University is responsible for the development of the IEEE Blockchain Asia-Pacific/China region. Currently, IEEE Blockchain has a total of 61 working groups worldwide, with 18 working groups in the Asia-Pacific region. Among them, Tongji University has facilitated the establishment of 6 working groups in the Chinese region, including Shanghai, Beijing, Shenzhen, Hangzhou, Hong Kong, and Macau/Guangzhou.
-	<br><br>
+	<div class="spacer"></div> -->
+
+	<div class="organizer-group-title">技术程序委员会联合主席</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Elisa Bertino</div>
+			<div class="role bold">IEEE会士, ACM会士</div>
+			<div class="affiliation">美国普渡大学</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">王崇刚</div>
+			<div class="role bold">IEEE会士，IEEE物联网期刊创刊主编，IEEE Network期刊主编</div>
+			<div class="affiliation">InterDigital公司，美国</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">崔曙光</div>
+			<div class="role bold">IEEE会士</div>
+			<div class="affiliation">香港中文大学（深圳）</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/renkui.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">任奎</div>
+			<div class="role bold">IEEE会士, ACM会士</div>
+			<div class="affiliation">浙江大学</div>
+		</div>
+	</div>
+
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/leizhang.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">张磊
+			</div>
+			<div class="role bold">IEEE物联网期刊、IEEE无线通信快报和数字通信与网络的副主编</div>
+			<div class="affiliation">英国格拉斯哥大学</div>
+		</div>
+	</div>
+	
+	<div class="spacer"></div>
+	
+	<div class="organizer-group-title">主讲人</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Thomas Coughlin</div>
+			<div class="role">IEEE主席候选人</div>
+			<!-- <div class="affiliation"></div> -->
+		</div>
+	</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Elisa Bertino</div>
+			<div class="role">ACM副主席</div>
+			<!-- <div class="affiliation"></div> -->
+		</div>
+	</div>
+	
+
+	<div class="spacer"></div>
+
 </div>
-
-
-<?php 
-// replace the image files below with your own (you can keep the filenames if you want and rename your own).  Or, just delete the entire <div> below
-?>
-<div id="images" class="flex flex-wrap justify-center">
-	<div class="about-image" style="background: url(images/blockchain/blockchain1.png) 150px 150px"></div>
-	<div class="about-image" style="background: url(images/blockchain/blockchain2.png) 150px 150px"></div>
-	<div class="about-image" style="background: url(images/blockchain/blockchain3.png) 150px 150px"></div>
-	<div class="about-image" style="background: url(images/blockchain/blockchain4.png) 150px 150px"></div>
-	<div class="about-image" style="background: url(images/blockchain/blockchain5.png) 150px 150px"></div>
-</div>	
-
 
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>

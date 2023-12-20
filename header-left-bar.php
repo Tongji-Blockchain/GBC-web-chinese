@@ -24,7 +24,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<meta name="keywords" content="CCTA2017,Conference,MSC2017,Control Systems Society,IEEE,MSC,CCA,Conference on Control Applications, ISIC, International Symposium on Intelligent Control, CACSD, Conference on Computer-Aided Control System Design, Multi-Conference on Systems and Control,  Multi-Conference on Systems and Control,CCA,Conference on Control Applications,IEEE Conference on Control Applications,ISIC,CSS,CACSD, IEEE Control Systems Society Conferences,IEEE Conference on Computer-Aided Control System Design">
+	<meta name="keywords" content="CCTA2017，会议，MSC2017，控制系统学会，IEEE，MSC，CCA，控制应用会议，ISIC，智能控制国际研讨会，CACSD，计算机辅助控制系统设计会议，系统与控制多会议，系统与控制多会议，CCA，控制应用会议，IEEE控制应用会议，ISIC，CSS，CACSD，IEEE控制系统学会会议，IEEE计算机辅助控制系统设计会议">
 
 	<style type="text/css">
 
@@ -103,7 +103,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<p style="padding:0;margin:0;font-size:smaller">
 						<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 						<span id="news-ticker-content">
-							<a id="news-ticker-link" href="#">Paper submission Stay tuned!</a>
+							<a id="news-ticker-link" href="#">论文提交 敬请关注！</a>
 						</span>
 					</p>
 				</div>
@@ -118,9 +118,9 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 			<div id=left-bar-container class="flex flex-auto col-2">
 				<ul class="left-bar list-reset" style="">
 					<li name="back" class="bold" style="font-size: x-large">IEEE <?php echo $json['meta']['conferenceName'];?><a href="#" class="slide-back"><i class="fa fa-lg fa-arrow-circle-left" aria-hidden="true"></i></a></li>
-					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home" aria-hidden="true"></i>HOME</a></li>
+					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home" aria-hidden="true"></i>主页</a></li>
 
-					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>ORGANIZERS</a></li>
+					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>组织者</a></li>
 
 					<!-- <li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>REGISTRATION</a></li> -->
 

@@ -23,39 +23,39 @@
 	},
 	"dates":[
 		{
-			"title":"Paper Submission Opens (<a target='_blank' href=''>link</a>)",
+			"title":"论文开放提交截止日期 (<a target='_blank' href=''>link</a>)",
 			"date": "TBA",
 			"showInNavBar": true
 		},
 		{
-			"title":"Invited Session Proposals Due",
+			"title":"邀请专题提案截止日期",
 			"date": "TBA",
 			"showInNavBar": true
 		},
 		{
-			"title":"Contributed and Invited Papers Due",
+			"title":"投稿和邀请论文截止日期",
 			"date": "TBA",
 			"showInNavBar": true
 		},
 		{
-			"title":"Notification of Acceptance",
+			"title":"接受通知",
 			"date": "TBA",
 			"showInNavBar": true
 		},
 		{
-			"title":"Final Submissions Due",
+			"title":"最终提交截止日期",
 			"date": "TBA",
 			"showInNavBar": true
 		},
 		{
-			"title":"IEEE Global Blockchain Conference Dates",
-			"date": "July 3-5, 2024",
+			"title":"IEEE全球区块链大会日期",
+			"date": "2024年7月3-5日",
 			"showInNavBar": true
 		}
 	],
 	"footerLinks":{
 		"firstSection":{
-			"title":"conference",
+			"title":"会议",
 			"links":[
 				{
 					"name": "",
@@ -85,7 +85,7 @@
 			]
 		},
 		"secondSection":{
-			"title":"destination",
+			"title":"目的地",
 			"links":[
 				{
 					"name": "",
@@ -110,7 +110,7 @@
 			]
 		},
 		"thirdSection":{
-			"title":"author links",
+			"title":"作者链接",
 			"links":[
 				{
 					"name": "",
@@ -140,10 +140,10 @@
 			]
 		},
 		"fourthSection":{
-			"title":"sitemap",
+			"title":"网站导航",
 			"links":[
 				{
-					"name": "Home",
+					"name": "主页",
 					"link": "index.php",
 					"openInNewWindow": false
 				},
@@ -172,22 +172,22 @@
 	},
 	"newsTicker":[
 		{
-			"content":"Stay tuned!",
+			"content":"敬请关注！",
 			"link":"",
 			"openInNewWindow": false
 		},
 		{
-			"content":"Stay tuned!",
+			"content":"敬请关注！",
 			"link":"",
 			"openInNewWindow": false
 		},
 		{
-			"content":"Stay tuned!",
+			"content":"敬请关注！",
 			"link":"",
 			"openInNewWindow": false
 		},
 		{
-			"content":"Stay tuned!",
+			"content":"敬请关注！",
 			"link":"",
 			"openInNewWindow": false
 		}		
