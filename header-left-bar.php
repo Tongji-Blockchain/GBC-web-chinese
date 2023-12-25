@@ -120,21 +120,23 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 					<li name="back" class="bold" style="font-size: x-large">IEEE <?php echo $json['meta']['conferenceName'];?><a href="#" class="slide-back"><i class="fa fa-lg fa-arrow-circle-left" aria-hidden="true"></i></a></li>
 					<li name="home"><a href="index.php"><i class="fa fa-lg fa-home" aria-hidden="true"></i>主页</a></li>
 
-					<li name="about"><a href="about.php"><i class="fa fa-lg fa-graduation-cap" aria-hidden="true"></i>ABOUT</a></li>
+					<li name="about"><a href="about.php"><i class="fa fa-lg fa-info" aria-hidden="true"></i>关于大会</a></li>
 
-					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>委员会</a></li>
+					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>大会组委会</a></li>
 
-					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>作者需知</a></li>
+					<li name="home"><a href="index.php"><i class="fa fa-lg fa-microphone" aria-hidden="true"></i>主旨演讲</a></li>
 
-					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>PROGRAM</a></li>
+					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>作者须知</a></li>
 
-					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>REGISTRATION</a></li>
+					<li name="hotel"><a href="technical-program.php"><i class="fa fa-lg fa-tasks" aria-hidden="true"></i>大会议程</a></li>
 
-					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>VENUE/HOTEL</a></li>
+					<li name="registration"><a href="registration.php"><i class="fa fa-lg fa-sign-in" aria-hidden="true"></i>注册</a></li>
 
-					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>EVENTS</a></li>
+					<li name="hotel"><a href="hotel.php"><i class="fa fa-lg fa-bed" aria-hidden="true"></i>会议场地/酒店</a></li>
 
-					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>PATRONS</a></li>
+					<li name="events"><a href="events.php"><i class="fa fa-lg fa-calendar" aria-hidden="true"></i>活动</a></li>
+
+					<li name="visa-information"><a href="sponsors.php"><i class="fa fa-lg fa-globe" aria-hidden="true"></i>赞助单位</a></li>
 					
 
 				</ul>
