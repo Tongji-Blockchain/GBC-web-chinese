@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='欢迎'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='about'; //THIS MUST BE SET FOR EACH PAGE
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
@@ -47,13 +47,13 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
 
-    2024年将见证一个具有历史意义的事件——IEEE全球区块链大会在中国举行。这次活动不仅将聚焦于技术进步，还将作为一个平台，分享研究成果，促进国际合作，并强调在区块链领域秉承开放、包容和创新的承诺。
+	The year 2024 will witness a monumental event—the IEEE Global Blockchain Conference in China. This event will not only focus on the technological advances but will also serve as a platform for sharing research, fostering international collaborations, and highlighting commitment to open, inclusive, and innovative technological advancements in blockchain.
 	<br><br>
-	我们热情欢迎所有与会者，希望您在会议中获得丰富而有意义的经历。让我们一起探索区块链技术的未来，并与来自世界各地的专家展开富有洞见的讨论。
+	We extend a warm welcome to all attendees, and we hope you have a rewarding and enriching experience at the conference. Join us as we explore the future of blockchain technology and engage in insightful discussions with experts from around the world.
 	<br><br>
-	会议背景：
+	Backgrond of the Conference:
 	<br><br>
-	2018年1月1日，IEEE区块链组织成立，负责监督IEEE内部与区块链相关的所有活动。来自同济大学的刘儿兀教授负责发展IEEE区块链亚太/中国地区。目前，IEEE区块链在全球范围内共有61个工作组，其中亚太地区有18个工作组。在中国地区，同济大学促进了6个工作组的建立，包括上海、北京、深圳、杭州、香港以及澳门/广州。
+	On January 1, 2018, the IEEE Blockchain Organization was established to oversee all activities related to blockchain within IEEE. Professor Liu Erwu from Tongji University is responsible for the development of the IEEE Blockchain Asia-Pacific/China region. Currently, IEEE Blockchain has a total of 61 working groups worldwide, with 18 working groups in the Asia-Pacific region. Among them, Tongji University has facilitated the establishment of 6 working groups in the Chinese region, including Shanghai, Beijing, Shenzhen, Hangzhou, Hong Kong, and Macau/Guangzhou.
 	<br><br>
 </div>
 
