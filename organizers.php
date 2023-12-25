@@ -28,7 +28,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="info-container">
 			<div class="name">Elisa Bertino</div>
 			<div class="role bold">IEEE会士, ACM会士</div>
-			<div class="affiliation">美国普渡大学</div>
+			<div class="affiliation">普渡大学，美国</div>
 		</div>
 	</div>
 
@@ -46,7 +46,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="info-container">
 			<div class="name">崔曙光</div>
 			<div class="role bold">IEEE会士</div>
-			<div class="affiliation">香港中文大学（深圳）</div>
+			<div class="affiliation">香港中文大学，深圳</div>
 		</div>
 	</div>
 
@@ -55,7 +55,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="info-container">
 			<div class="name">任奎</div>
 			<div class="role bold">IEEE会士, ACM会士</div>
-			<div class="affiliation">浙江大学</div>
+			<div class="affiliation">浙江大学，中国</div>
 		</div>
 	</div>
 
@@ -65,7 +65,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="name">张磊
 			</div>
 			<div class="role bold">IEEE物联网期刊、IEEE无线通信快报和数字通信与网络的副主编</div>
-			<div class="affiliation">英国格拉斯哥大学</div>
+			<div class="affiliation">格拉斯哥大学，英国</div>
 		</div>
 	</div>
 	
