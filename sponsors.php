@@ -4,11 +4,11 @@ $stylesheet='css/sponsors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 <div class="text">
-
-第一届IEEE CCTA由IEEE控制系统学会赞助，IEEE机器人与自动化学会提供技术协助赞助，并在Society for Instrument and Control Engineers（SICE）的合作组织下进行。</div>
+敬请期待
+</div>
 
 <div class="flex flex-wrap">
-	<div class="image-holder">
+	<!-- <div class="image-holder">
 		<img src="images/ieee-logo.png">
 	</div>
 	<div style="margin-left:5%" class="image-holder items-end">
@@ -19,7 +19,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	</div>
 	<div style="margin-left:2%" class="image-holder">
 		<img src="images/sice-logo.png">
-	</div>
+	</div> -->
 
 </div>
 
