@@ -23,33 +23,53 @@
 	},
 	"dates":[
 		{
-			"title":"论文开放提交截止日期 (<a target='_blank' href=''>link</a>)",
-			"date": "TBA",
+			"title":"Call for Demo Proposals Due",
+			"date": "15 Jan, 2024",
 			"showInNavBar": true
 		},
 		{
-			"title":"邀请专题提案截止日期",
-			"date": "TBA",
+			"title":"Call for Workshop Proposals Due",
+			"date": "15 Jan, 2024",
 			"showInNavBar": true
 		},
 		{
-			"title":"投稿和邀请论文截止日期",
-			"date": "TBA",
+			"title":"Paper Submission Opens (<a target='_blank' href=''>link</a>)",
+			"date": "1 Feb, 2024",
 			"showInNavBar": true
 		},
 		{
-			"title":"接受通知",
-			"date": "TBA",
+			"title":"Call for Tutorial Proposals Due",
+			"date": "15 March, 2024/1 May, 2024",
 			"showInNavBar": true
 		},
 		{
-			"title":"最终提交截止日期",
-			"date": "TBA",
+			"title":"Call for Panel Proposals Due",
+			"date": "15 March, 2024/1 May, 2024",
 			"showInNavBar": true
 		},
 		{
-			"title":"IEEE全球区块链大会日期",
-			"date": "2024年7月3-5日",
+			"title":"1st Round Submissions Due",
+			"date": "1 March, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"Final Round Submissions Due",
+			"date": "1 Apr, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"Contributed and Invited Papers Due",
+			"date": "15 May, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"Notification of Acceptance",
+			"date": "1 July, 2024",
+			"showInNavBar": true
+		},
+		{
+			"title":"IEEE Global Blockchain Conference Dates",
+			"date": "August 21-23, 2024",
 			"showInNavBar": true
 		}
 	],
@@ -58,28 +78,13 @@
 			"title":"会议",
 			"links":[
 				{
-					"name": "",
+					"name": "program",
 					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "",
-					"link": "plenary-speakers.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "",
-					"link": "workshops.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "",
+					"name": "events",
 					"link": "events.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "",
-					"link": "panel-session.php",
 					"openInNewWindow": false
 				}
 			]
@@ -88,7 +93,7 @@
 			"title":"目的地",
 			"links":[
 				{
-					"name": "",
+					"name": "酒店",
 					"link": "hotel.php",
 					"openInNewWindow": false
 				},
@@ -110,7 +115,7 @@
 			]
 		},
 		"thirdSection":{
-			"title":"作者链接",
+			"title":"作者须知",
 			"links":[
 				{
 					"name": "",
@@ -124,17 +129,17 @@
 				},
 				{
 					"name": "",
-					"link": "visa-information.php",
+					"link": "",
 					"openInNewWindow": false
 				},
 				{
 					"name": "",
-					"link": "student-paper-award.php",
+					"link": "",
 					"openInNewWindow": false
 				},
 				{
 					"name": "",
-					"link": "student-travel-support.php",
+					"link": "",
 					"openInNewWindow": false
 				}
 			]
@@ -148,22 +153,17 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "",
+					"name": "大会组委会",
 					"link": "organizers.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "",
-					"link": "visa-information.php",
-					"openInNewWindow": false
-				},
-				{
-					"name": "",
+					"name": "活动",
 					"link": "events.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "",
+					"name": "注册",
 					"link": "registration.php",
 					"openInNewWindow": false
 				}

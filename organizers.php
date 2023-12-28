@@ -27,7 +27,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Elisa Bertino</div>
-			<div class="role bold">IEEE会士, ACM会士</div>
+			<!-- <div class="role bold">IEEE会士, ACM会士</div>-->
 			<div class="affiliation">普渡大学，美国</div>
 		</div>
 	</div>
@@ -36,8 +36,10 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/chonggangwang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">王崇刚</div>
-			<div class="role bold">IEEE会士，IEEE物联网期刊创刊主编，IEEE Network期刊主编</div>
+			<!-- <div class="role bold">IEEE会士，IEEE物联网期刊创刊主编，IEEE Network期刊主编</div>-->
 			<div class="affiliation">InterDigital公司，美国</div>
+			<!-- <div class="role bold">IEEE Fellow, ACM Fellow</div> -->
+			<div class="affiliation">普渡大学, 美国</div>
 		</div>
 	</div>
 
@@ -45,8 +47,8 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/cuishuguang.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">崔曙光</div>
-			<div class="role bold">IEEE会士</div>
-			<div class="affiliation">香港中文大学，深圳</div>
+			<!-- <div class="role bold">IEEE会士</div>-->
+			<div class="affiliation">香港中文大学（深圳），中国</div>
 		</div>
 	</div>
 
@@ -54,7 +56,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/renkui.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">任奎</div>
-			<div class="role bold">IEEE会士, ACM会士</div>
+			<!-- <div class="role bold">IEEE会士, ACM会士</div>-->
 			<div class="affiliation">浙江大学，中国</div>
 		</div>
 	</div>
@@ -64,7 +66,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="info-container">
 			<div class="name">张磊
 			</div>
-			<div class="role bold">IEEE物联网期刊、IEEE无线通信快报和数字通信与网络的副主编</div>
+			<!-- <div class="role bold">IEEE物联网期刊、IEEE无线通信快报和数字通信与网络的副主编</div>-->
 			<div class="affiliation">格拉斯哥大学，英国</div>
 		</div>
 	</div>
