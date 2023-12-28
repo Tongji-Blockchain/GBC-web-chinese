@@ -124,7 +124,7 @@ $json = json_decode(file_get_contents('configuration/config.json'), true);
 
 					<li name="organizers"><a href="organizers.php"><i class="fa fa-lg fa-users" aria-hidden="true"></i>大会组委会</a></li>
 
-					<li name="home"><a href="index.php"><i class="fa fa-lg fa-microphone" aria-hidden="true"></i>主旨演讲</a></li>
+					<li name="home"><a href="keynote.php"><i class="fa fa-lg fa-microphone" aria-hidden="true"></i>主旨演讲</a></li>
 
 					<li name="authors"><a href="authors.php"><i class="fa fa-lg fa-pencil-square-o" aria-hidden="true"></i>作者须知</a></li>
 

@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='about'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='KeyNotes'; //THIS MUST BE SET FOR EACH PAGE
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
