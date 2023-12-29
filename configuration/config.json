@@ -23,53 +23,53 @@
 	},
 	"dates":[
 		{
-			"title":"Call for Demo Proposals Due",
-			"date": "15 Jan, 2024",
+			"title":"演示提案截止日期",
+			"date": "2024年1月15日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Call for Workshop Proposals Due",
-			"date": "15 Jan, 2024",
+			"title":"研讨会提案截止日期",
+			"date": "2024年1月15日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Paper Submission Opens (<a target='_blank' href=''>link</a>)",
-			"date": "1 Feb, 2024",
+			"title":"论文提交开放 (<a target='_blank' href=''>link</a>)",
+			"date": "2024年2月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Call for Tutorial Proposals Due",
-			"date": "15 March, 2024/1 May, 2024",
+			"title":"教程提案截止日期",
+			"date": "2024年3月15日至2024年5月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Call for Panel Proposals Due",
-			"date": "15 March, 2024/1 May, 2024",
+			"title":"小组提案截止日期",
+			"date": "2024年3月15日至2024年5月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"1st Round Submissions Due",
-			"date": "1 March, 2024",
+			"title":" 第一轮提交截止日期",
+			"date": "2024年3月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Final Round Submissions Due",
-			"date": "1 Apr, 2024",
+			"title":"最终提交截止日期",
+			"date": "2024年4月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Contributed and Invited Papers Due",
-			"date": "15 May, 2024",
+			"title":"投稿和邀请论文截止日期",
+			"date": "2024年5月15日",
 			"showInNavBar": true
 		},
 		{
-			"title":"Notification of Acceptance",
-			"date": "1 July, 2024",
+			"title":"接收通知日期",
+			"date": "2024年7月1日",
 			"showInNavBar": true
 		},
 		{
-			"title":"IEEE Global Blockchain Conference Dates",
-			"date": "August 21-23, 2024",
+			"title":" IEEE全球区块链大会日期",
+			"date": "2024年8月21日至8月23日",
 			"showInNavBar": true
 		}
 	],
@@ -78,12 +78,12 @@
 			"title":"会议",
 			"links":[
 				{
-					"name": "program",
+					"name": "会议议程",
 					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "events",
+					"name": "会议事项",
 					"link": "events.php",
 					"openInNewWindow": false
 				}

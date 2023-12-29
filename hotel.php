@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Hotel'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='会议场地/酒店'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/hotel.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>

@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='KeyNotes'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='主旨演讲'; //THIS MUST BE SET FOR EACH PAGE
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 

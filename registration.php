@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Conference Registration'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='大会注册'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/registration.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>

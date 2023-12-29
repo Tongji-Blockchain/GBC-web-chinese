@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='组织者'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='委员会'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
@@ -37,7 +37,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="info-container">
 			<div class="name">王崇刚</div>
 			<!-- <div class="role bold">IEEE会士，IEEE物联网期刊创刊主编，IEEE Network期刊主编</div>-->
-			<div class="affiliation">InterDigital公司，美国</div>
+			<!-- <div class="affiliation">InterDigital公司，美国</div>-->
 			<!-- <div class="role bold">IEEE Fellow, ACM Fellow</div> -->
 			<div class="affiliation">普渡大学, 美国</div>
 		</div>

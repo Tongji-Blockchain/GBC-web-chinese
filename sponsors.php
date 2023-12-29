@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='Sponsors'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='赞助单位'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/sponsors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
