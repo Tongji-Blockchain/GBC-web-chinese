@@ -59,7 +59,9 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<br><br>
 	3. 国际与国内合作：促进中国区块链企业与全球同行交流合作，支持中国在全球区块链技术发展中发挥更大作用。
 	<br><br>
-	
+	<br><br>
+	<br><br>
+	<br><br>
 	主  办：IEEE(国际电气电子工程师学会)
 	<br>
 	承  办：同济大学、IEEE区块链社区(BCTC)、浦江数链、信通院

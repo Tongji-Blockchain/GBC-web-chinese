@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='技术性项目'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='大会议程'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/events.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
