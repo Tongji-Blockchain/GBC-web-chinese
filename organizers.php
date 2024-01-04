@@ -78,7 +78,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		<div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>
 		<div class="info-container">
 			<div class="name">Thomas Coughlin</div>
-			<div class="role">IEEE主席候选人</div>
+			<div class="role">IEEE主席</div>
 			<!-- <div class="affiliation"></div> -->
 		</div>
 	</div>
