@@ -7,7 +7,7 @@
 					<div style="color:white;width:0;height:0;border-top:40px solid transparent;border-bottom: 40px solid transparent;border-left: 40px solid #191970;">
 					</div>
 					<div class="close-dates"><a href="#" style=""><i class="fa fa-2x fa-arrow-circle-right" aria-hidden="true"></i></a></div>
-					<div id="title" class="bold">重要日期</div>
+					<div id="title" class="bold">IMPORTANT DATES</div>
 				</div>
  				<div id="content" class="flex-auto">
 	 				<ul class="list-reset">
@@ -25,7 +25,7 @@
 							} 
 
 	 					?>
-	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="">敬请关注！</a></li>
+	 					<li style="font-size:small;color:red;text-transform:uppercase;cursor:pointer"><a target="_blank" href="">敬请期待！</a></li>
 					</ul>
 				</div>
 				
@@ -109,8 +109,7 @@
 					<div class="center">
 						&copy IEEE <?php echo $json['meta']['conferenceName'] ?>
 						<br><br>
-						<!-- <a target="_blank" href="<?php echo $json['socialMediaLinks']['facebook'] ?>"><i class="fa fa-3x fa-facebook"></i></a>
-						<a target="_blank" href="<?php echo $json['socialMediaLinks']['twitter'] ?>"><i class="fa fa-3x fa-twitter"></i></a> -->
+						<a target="_blank" href="<?php echo $json['socialMediaLinks']['email'] ?>"><i class="fa fa-3x fa-envelope-o"></i></a>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['website'] ?>"><i class="fa fa-3x fa-globe"></i> </a>
 					</div> 
 					<div class="">

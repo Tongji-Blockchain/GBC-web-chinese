@@ -123,7 +123,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</ul>
 		</p>
 	</p> -->
-	敬请期待
+	敬请期待！
 </div>
 
 
