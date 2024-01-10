@@ -7,7 +7,7 @@
 					<div style="color:white;width:0;height:0;border-top:40px solid transparent;border-bottom: 40px solid transparent;border-left: 40px solid #191970;">
 					</div>
 					<div class="close-dates"><a href="#" style=""><i class="fa fa-2x fa-arrow-circle-right" aria-hidden="true"></i></a></div>
-					<div id="title" class="bold">IMPORTANT DATES</div>
+					<div id="title" class="bold">重要日期</div>
 				</div>
  				<div id="content" class="flex-auto">
 	 				<ul class="list-reset">
