@@ -47,7 +47,29 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 
 <!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
 
-欢迎参加2024年IEEE 全球区块链大会！在这里，我们将与IEEE主席、IET主席和ACM副主席一起“打造可信的数字未来”。在IEEE TDSC、IEEE TMC 和IEEE Network等顶级期刊主编的带领下，大会技术议程涵盖六个主题、多个讲座和研讨会。大会还将邀请顶级专家举办一系列有远见的主题演讲、专题讨论和产业论坛，探讨区块链基础设施赋能城市数字化建设，共同塑造区块链的未来。
+<h2>欢迎参加2024年IEEE 全球区块链大会！在这里，我们将与IEEE主席、IET主席和ACM副主席一起“打造可信的数字未来”。在IEEE TDSC、IEEE TMC 和IEEE Network等顶级期刊主编的带领下，大会技术议程涵盖六个主题、多个讲座和研讨会。大会还将邀请顶级专家举办一系列有远见的主题演讲、专题讨论和产业论坛，探讨区块链基础设施赋能城市数字化建设，共同塑造区块链的未来。</h2>
+<br/>
+<h1>大会目标</h1>
+<p><ul>
+<li>构建全球公认的区块链国际学术旗舰会议，建设区块链产业国际合作平台</li>
+<li>推动区块链技术在全球范围内的发展</li>
+<li>促进中国及全球的科技创新和数字化转型</li>
+</ul></p>
+<h1>大会口号</h1>
+<p>打造值得信赖的数字未来（Transforming a Trustworthy Digital Future）</p>
+<h1>大会亮点</h1>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+
 </div>
 
 
