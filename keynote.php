@@ -1,5 +1,6 @@
 <?php 
 $pageTitle='主旨演讲'; //THIS MUST BE SET FOR EACH PAGE
+$stylesheet='css/organizers.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
@@ -34,33 +35,53 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	})
 </script>
 
-<!-- <div id="news-ticker" style="color:gray;background:white;padding:15px;margin:10px;border-radius:10px;box-shadow:2px 2px 2px 2px #ccc;margin-top:-20px;margin-bottom:20px; ">
+<div id="news-ticker" style="color:gray;background:white;padding:15px;margin:10px;border-radius:10px;box-shadow:2px 2px 2px 2px #ccc;margin-top:-20px;margin-bottom:20px; ">
 		<p style="padding:0;margin:0;font-size:smaller">
 			<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
 			<span id="news-ticker-content">
-				<a id="news-ticker-link" href="#">Click here for nomination for best student papers</a>
+				<a id="news-ticker-link" href="">敬请期待</a>
 			</span>
 		</p>
-</div> -->
-
-<div class="text">
-
-<!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
-敬请期待
-	<br><br>
 </div>
+
+<div class="organizer-group-title">主旨演讲人</div>
+
+<div class="flex flex-auto person-container">
+	<div class="pic headshot round" style="background:url(images/organizers/thomas.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Thomas Coughlin</div>
+		<div class="role">IEEE 主席</div>
+		<!-- <div class="affiliation"></div> -->
+	</div>
+</div>
+
+<div class="flex flex-auto person-container">
+	<div class="pic headshot round" style="background:url(images/organizers/elisa.png);background-size:100px 100px;"></div>
+	<div class="info-container">
+		<div class="name">Elisa Bertino</div>
+		<div class="role">ACM 副主席</div>
+		<!-- <div class="affiliation"></div> -->
+	</div>
+</div>
+
+<!-- <div class="text">
+
+	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div>
+Stay tuned
+	<br><br>
+</div> -->
 
 
 <?php 
 // replace the image files below with your own (you can keep the filenames if you want and rename your own).  Or, just delete the entire <div> below
 ?>
-<div id="images" class="flex flex-wrap justify-center">
+<!-- <div id="images" class="flex flex-wrap justify-center">
 	<div class="about-image" style="background: url(images/blockchain/blockchain1.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain2.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain3.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain4.png) 150px 150px"></div>
 	<div class="about-image" style="background: url(images/blockchain/blockchain5.png) 150px 150px"></div>
-</div>	
+</div>	 -->
 
 
 <?php require 'right-bar-footer.php'; //THE MUST BE INCLUDED FOR EACH PAGE ?>

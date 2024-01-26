@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='about'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='关于大会'; //THIS MUST BE SET FOR EACH PAGE
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
@@ -46,7 +46,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 <div class="text">
 
 <!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
-敬请期待
+敬请关注！
 	<br><br>
 </div>
 

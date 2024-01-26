@@ -9,32 +9,30 @@
 		"title" : "GBC 2024",
 		"subtitle" : "IEEE 全球区块链大会",
 		"dateTitle" : "八月 21日-23日, 2024",
-		"locationPlaceName": "TBA",
+		"locationPlaceName": "敬请期待",
 		"locationAreaName": "上海，中国",
 		"slogon":"打造可信的数字未来",
 		"bannerImage":"images/banner.jpg",
 		"bannerTopPlacement" : "-310px",
-		"bannerRightPlacement" : "-640px"
+		"bannerRightPlacement" : "-60px"
 	},
 	"socialMediaLinks":{
-		"facebook":"",
-		"twitter":"",
+		"email":"mailto:gbc2024@ieee-gbc.org",
 		"website":""
 	},
 	"dates":[
-		
 		{
 			"title":"研讨会提案截止日期",
 			"date": "2024年1月30日",
 			"showInNavBar": true
 		},
 		{
-			"title":"教程提案截止日期",
+			"title":"指导提案截止日期",
 			"date": "2024年1月30日",
 			"showInNavBar": true
 		},
 		{
-			"title":"论文提交开放 (<a target='_blank' href=''>link</a>)",
+			"title":"论文提交开放 (<a target='_blank' href=''>敬请期待</a>)",
 			"date": "2024年2月1日",
 			"showInNavBar": true
 		},
@@ -49,13 +47,8 @@
 			"showInNavBar": true
 		},
 		{
-			"title":" 第一轮提交截止日期",
+			"title":" 提交截止日期",
 			"date": "2024年3月1日",
-			"showInNavBar": true
-		},
-		{
-			"title":"最终提交截止日期",
-			"date": "2024年4月1日",
 			"showInNavBar": true
 		},
 		{
@@ -79,12 +72,12 @@
 			"title":"会议",
 			"links":[
 				{
-					"name": "会议议程",
+					"name": "大会议程",
 					"link": "technical-program.php",
 					"openInNewWindow": false
 				},
 				{
-					"name": "会议事项",
+					"name": "活动",
 					"link": "events.php",
 					"openInNewWindow": false
 				}
@@ -159,7 +152,7 @@
 					"openInNewWindow": false
 				},
 				{
-					"name": "活动",
+					"name": "会议活动",
 					"link": "events.php",
 					"openInNewWindow": false
 				},
