@@ -12,7 +12,9 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 敬请期待
 <div class="spacer"></div>
 
-<div style="">
+	<div class="text">
+	
+	<div style="">
 			<a style="color:blue;font-size: 20px" href="organizers.php">
 				<div style="padding-top:6%;float:left">
 					大会组委会
