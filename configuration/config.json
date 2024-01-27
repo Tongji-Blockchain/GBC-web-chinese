@@ -22,12 +22,12 @@
 	},
 	"dates":[
 		{
-			"title":"研讨会提案截止日期",
+			"title":"Workshop Proposals 截止日期",
 			"date": "2024年1月30日",
 			"showInNavBar": true
 		},
 		{
-			"title":"指导提案截止日期",
+			"title":"Tutorial Proposals 截止日期",
 			"date": "2024年1月30日",
 			"showInNavBar": true
 		},
@@ -37,12 +37,12 @@
 			"showInNavBar": true
 		},
 		{
-			"title":"演示提案截止日期",
+			"title":"Demo Proposals 截止日期",
 			"date": "2024年2月15日",
 			"showInNavBar": true
 		},
 		{
-			"title":"圆桌提案截止日期",
+			"title":"Panel Proposals 截止日期",
 			"date": "2024年2月15日",
 			"showInNavBar": true
 		},

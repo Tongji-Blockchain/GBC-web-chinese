@@ -55,7 +55,7 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	</div>
 	<div class="spacer"></div>
 
-	<div class="organizer-group-title">主题议程联合主席</div>
+	<div class="organizer-group-title">Track联合主席</div>
 
 	<div class="organizer-track-title">主题 1: 区块链共识、性能和可扩展性</div>
 
@@ -84,6 +84,14 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 			<div class="name">李颉</div>
 			<div class="role bold">IEEE 会士</div>
 			<div class="affiliation">上海交通大学</div>
+		</div>
+	</div>
+	<div class="flex flex-auto person-container">
+		<div class="pic headshot round" style="background:url(images/organizers/.png);background-size:100px 100px;"></div>
+		<div class="info-container">
+			<div class="name">Ashish Kundu</div>
+			<div class="role bold">IEEE 会士</div>
+			<div class="affiliation">Cisco</div>
 		</div>
 	</div>
 	<div class="flex flex-auto person-container">
