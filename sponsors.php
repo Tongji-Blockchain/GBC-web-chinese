@@ -3,23 +3,32 @@ $pageTitle='赞助单位'; //THIS MUST BE SET FOR EACH PAGE
 $stylesheet='css/sponsors.css';
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
-<div class="text">
-敬请期待
-</div>
+
 
 <div class="flex flex-wrap">
-	<!-- <div class="image-holder">
-		<img src="images/ieee-logo.png">
+	<!-- <div style="margin-left:2%" class="image-holder">
+		<img src="images/logo/IEEE Blockchain.png">
 	</div>
-	<div style="margin-left:5%" class="image-holder items-end">
-		<img src="images/css-logo.png">
-	</div>
-	<div class="image-holder">
-		<img src="images/robotics-logo.png">
+	<div style="margin-left:2%" class="image-holder items-end">
+		<img src="images/logo/IEEE-Blue.png">
 	</div>
 	<div style="margin-left:2%" class="image-holder">
-		<img src="images/sice-logo.png">
+		<img src="images/logo/SERCBAAS-Blue.png">
+	</div>
+	<br><br>
+	<div style="margin-left:2%" class="image-holder">
+		<img src="images/logo/IEEE Blockchain.png">
+	</div>
+	<div style="margin-left:2%" class="image-holder items-end">
+		<img src="images/logo/IEEE-Blue.png">
+	</div>
+	<div style="margin-left:2%" class="image-holder">
+		<img src="images/logo/SERCBAAS-Blue.png">
+	</div>
+	<div style="margin-left:2%" class="image-holder">
+		<img src="images/logo/SERCBAAS-Blue.png">
 	</div> -->
+	敬请期待
 
 </div>
 

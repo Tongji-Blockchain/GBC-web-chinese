@@ -20,7 +20,7 @@
 
 .person-container .info-container{
 	padding: 3%;
-	padding-top:0;
+	padding-top: 1.5%;
 }
 
 .person-container .pic{
@@ -44,6 +44,12 @@
 
 .organizer-group-title{
 	font-size: x-large;
+	color: #191970;
+	margin-bottom: 10px;
+}
+
+.organizer-track-title{
+	font-size: large;
 	color: #191970;
 	margin-bottom: 10px;
 }

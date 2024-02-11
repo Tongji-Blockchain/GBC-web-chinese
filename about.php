@@ -1,5 +1,5 @@
 <?php 
-$pageTitle='about'; //THIS MUST BE SET FOR EACH PAGE
+$pageTitle='关于大会'; //THIS MUST BE SET FOR EACH PAGE
 require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 ?>
 
@@ -34,20 +34,18 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	})
 </script>
 
-<!-- <div id="news-ticker" style="color:gray;background:white;padding:15px;margin:10px;border-radius:10px;box-shadow:2px 2px 2px 2px #ccc;margin-top:-20px;margin-bottom:20px; ">
-		<p style="padding:0;margin:0;font-size:smaller">
-			<i style="color:red;margin-right:10px" class="fa fa-1x fa-newspaper-o"></i> 
-			<span id="news-ticker-content">
-				<a id="news-ticker-link" href="#">Click here for nomination for best student papers</a>
-			</span>
-		</p>
-</div> -->
+<div class="flex flex-auto" style="padding-top: 1%">
+<div style="margin-bottom: 1%;">
 
-<div class="text">
+<h1>关于IEEE GBC</h1>
+IEEE全球区块链大会是 IEEE 区块链社区两个旗舰会议之一。2024年 IEEE 全球区块链大会将于2024年8月21日至8月23日在中国上海举行。会议主题为“打造可信的数字未来”，将包括6个轨道的全面高质量技术程序以及多种教程和研讨会。IEEE GBC 2024 还将包括面向从业者的吸引人的行业项目，其中包括来自知名研究、行业和政府领导人的主题演讲和小组讨论，商业和行业小组讨论会，以及技术展览。GBC 2024 计划为完全线下的会议/活动。<br/><br/>
+<br/>
 
-<!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
-敬请期待
-	<br><br>
+<h1>关于IEEE</h1>
+IEEE（电气和电子工程师协会）是世界上最大的技术专业社团。该组织拥有超过40万名成员，分布在150个国家，是从航空航天系统、计算机和通信到生物医学工程、电力和消费电子等广泛领域的领先权威。IEEE致力于技术的发展，出版了世界上30%的电气与电子工程及计算机科学领域的文献，并开发了近900个活跃的行业标准。该组织每年在全球范围内赞助超过850次会议。了解更多信息，请访问www.ieee.org。<br/>
+<br/>
+
+</div>
 </div>
 
 
