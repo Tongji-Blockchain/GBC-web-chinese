@@ -44,37 +44,31 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 </div> -->
 
 <div class="text">
-
-<!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
-
-	IEEE 全球区块链大会
-	<br><br>	
-	作为国际权威的学术、技术和标准组织，我们致力于建立高效的国际化合作平台，吸引全球区块链技术开发者、学者和产业领袖，推动区块链技术的全球化发展。围绕“区块链推动城市数字化转型”的主题，以“打造可信的数字未来”为口号，建立一个高效的国际化合作平台，开展理论、技术、应用、标准、产业、投资的国内外交流与合作，为推动科技进步和数字化转型做出贡献。
-	<br><br>
-	重点内容：
-	<br><br>
-	1. 成果展示：提供一个窗口，展示全球区块链技术最新成果和研究进展，代表该领域最高水平。
-	<br><br>
-	2. 产学研用融合：强调产业、学术、研究和应用的结合，促进理论研究与实际应用的有效结合。
-	<br><br>
-	3. 国际与国内合作：促进中国区块链企业与全球同行交流合作，支持中国在全球区块链技术发展中发挥更大作用。
-	<br><br>
-	<br><br>
-	<br><br>
-	<br><br>
-	主  办：IEEE(国际电气电子工程师学会)
-	<br>
-	承  办：同济大学、IEEE区块链社区(BCTC)、浦江数链、信通院
-	<br>
-	规  格：学术旗舰会， IEEE主席和ACM副主席主旨报告
-	<br>
-	规模：800人（学术+产业）
-	<br>
-	时间：2024年8月21-23日（周3-周5）
-	<br>
-	地点：上海
+    <!-- 可以使用以下代码加粗主题并改变字体 -->
+    <style>
+        .title {
+            font-weight: bold;
+            font-size: 32px;
+            font-family: Arial, sans-serif;
+        }
+		.paragraph {
+            font-size: 22px;
+            font-family: Arial, sans-serif;
+        }
+		.indented {
+            text-indent: 2em; /* 设置首行缩进为两个字符的宽度 */
+			margin: 0;
+    		line-height: 1.6; /* 设置行间距为字体大小的1.6倍 */
+        }
+    </style>
+    <div class="title">IEEE 全球区块链大会2024</div>
+    <br>  
+    <p class="indented paragraph">IEEE全球区块链大会，一场由国际电气电子工程师学会（IEEE）主办的盛大集会，即将于2024年8月21日至23日在上海举行。这不仅是一场关于区块链的国际盛会，更是一个汇聚全球顶尖专家、学者和业界领袖的交流平台。
+    <p class="indented paragraph">在这次大会中，与会者不仅有机会深入了解区块链技术的最新发展，更能够亲身参与其中，与业界同仁共同探讨和推动区块链技术的实用化和全球化。同时，大会也致力于搭建一个让创新和合作并存的舞台，推动学术理论与实际应用的完美结合。不论您是从事学术研究、企业创新，还是对区块链技术充满好奇，都可以在这次大会中找到自己的位置。
+	<p class="indented paragraph">我们期待您的参与，共同见证这场区块链技术的盛会，为构建一个可信赖、安全可靠的数字未来共同努力。
+    </p>
+    <br><br>
 </div>
-
 
 <?php 
 // replace the image files below with your own (you can keep the filenames if you want and rename your own).  Or, just delete the entire <div> below
