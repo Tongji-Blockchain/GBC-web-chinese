@@ -43,7 +43,6 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 		</p>
 </div> -->
 
-<<<<<<< HEAD
 <div class="text">
     <!-- 可以使用以下代码加粗主题并改变字体 -->
     <style>
@@ -69,19 +68,6 @@ require 'header-left-bar.php'; //THIS MUST BE INCLUDED FOR EACH PAGE
 	<p class="indented paragraph">我们期待您的参与，共同见证这场区块链技术的盛会，为构建一个可信赖、安全可靠的数字未来共同努力。
     </p>
     <br><br>
-=======
-<div class="flex flex-auto" style="padding-top: 1%">
-<div style="margin-bottom: 1%;">
-
-<!-- 	<div style="font-size:30px;color:red;padding:20px; line-height: 30px;"> Paper Submission Deadline Extended to March 10!</div> -->
-
-<h2>欢迎参加2024年IEEE 全球区块链大会！在这里，我们将与IEEE主席、IET主席和ACM副主席一起“打造可信的数字未来”。在IEEE TDSC、IEEE TMC 和IEEE Network等顶级期刊主编的带领下，大会技术议程涵盖六个主题、多个讲座和研讨会。大会还将邀请顶级专家举办一系列有远见的主题演讲、专题讨论和产业论坛，探讨区块链基础设施赋能城市数字化建设，共同塑造区块链的未来。</h2>
-<br/>
-
-
-
-</div>
->>>>>>> 669ef9f77cd2d5c19c526c5d0e64a455eaba9fe0
 </div>
 
 <?php 
