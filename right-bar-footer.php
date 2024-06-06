@@ -109,6 +109,10 @@
 					<div class="center">
 						&copy IEEE <?php echo $json['meta']['conferenceName'] ?>
 						<br><br>
+						地址：上海市曹安公路4800号同济大学嘉定校区智信馆
+						<br>
+						联系电话：13761439142
+						<br>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['email'] ?>"><i class="fa fa-3x fa-envelope-o"></i></a>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['website'] ?>"><i class="fa fa-3x fa-globe"></i> </a>
 					</div> 
