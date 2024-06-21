@@ -100,7 +100,7 @@
 	 								$target = "";
 	 							}
 							    echo '<li><a target="'.$target.'" href="'.$obj['links'][$i]['link'].'">'.$obj['links'][$i]['name'].'</a></li>';
-							} 
+							}
 							echo '</ul>';
 	 					?>
 					</div>
@@ -109,9 +109,11 @@
 					<div class="center">
 						&copy IEEE <?php echo $json['meta']['conferenceName'] ?>
 						<br><br>
-						联系地址：国家会展中心1馆
+						联系地址：国家会展中心1馆&emsp;联系电话：13761439142
 						<br>
-						联系电话：13761439142
+						<img src="images\policeicon.png" width="18" height="20">
+						<a href="https://beian.mps.gov.cn/#/query/webSearch?code=31011802004972" target="_blank">沪公网安备31011802004972号</a>&emsp;
+						<a href="https://beian.miit.gov.cn/" target="_blank">沪ICP备2020026294号-3</a>
 						<br><br>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['email'] ?>"><i class="fa fa-3x fa-envelope-o"></i></a>
 						<a target="_blank" href="<?php echo $json['socialMediaLinks']['website'] ?>"><i class="fa fa-3x fa-globe"></i> </a>
